@@ -1,0 +1,23 @@
+BASELINE TRANSFORMER RESULTS
+
+Dataset: AG News
+Model: DistilBERT (distilbert-base-uncased)
+Task: 4-class text classification
+
+Training samples: 120,000
+Test samples: 7,600
+Epochs: 1
+Batch size: 4
+Maximum sequence length: 128
+Learning rate: 2e-5
+Weight decay: 0.01
+FP16: Enabled
+
+Training time: 3178.02 seconds
+Training time: 52 minutes 57 seconds
+
+Training loss: 0.2964
+Evaluation loss: 0.2365
+
+Accuracy: 0.9445
+Macro F1: 0.9445
