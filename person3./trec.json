@@ -1,0 +1,8 @@
+{
+  "task": "trec",
+  "accuracy": 0.868,
+  "macro_f1": 0.7368719359143904,
+  "trainable_params": 742662,
+  "total_params": 67700748,
+  "train_time_s": 6.962406635284424
+}

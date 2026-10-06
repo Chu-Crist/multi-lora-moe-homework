@@ -1,0 +1,8 @@
+{
+  "task": "sst2",
+  "accuracy": 0.8864678899082569,
+  "macro_f1": 0.8863242224689007,
+  "trainable_params": 739586,
+  "total_params": 67694596,
+  "train_time_s": 67.67728042602539
+}

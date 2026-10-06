@@ -1,0 +1,8 @@
+{
+  "task": "agnews",
+  "accuracy": 0.9278947368421052,
+  "macro_f1": 0.9278806776658142,
+  "trainable_params": 741124,
+  "total_params": 67697672,
+  "train_time_s": 275.7507555484772
+}
