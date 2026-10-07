@@ -1,0 +1,4 @@
+Model_Architecture,Accuracy,Macro_F1,Trainable_Params_M,Training_Time_Mins
+DistilBERT Baseline,0.812,0.798,66.3,42.0
+Multi-LoRA,0.858,0.845,1.2,16.5
+Multi-LoRA + MoE,0.894,0.887,2.3,22.8
